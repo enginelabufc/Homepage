@@ -23,19 +23,19 @@ O **EngineLab** é um laboratório de pesquisa localizado na Universidade Federa
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://via.placeholder.com/150/3498DB/FFFFFF?text=NLP" width="80" height="80">
+<img src="[https://via.placeholder.com/150/3498DB/FFFFFF?text=NLP](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/95a910a2-114a-4ad0-aec0-ab96c612701b_1390x926.png)" width="80" height="80">
 <h3>🤖 Processamento de Linguagem Natural</h3>
 <p>Pesquisa e desenvolvimento de aplicações com Large Language Models (LLMs).</p>
 <a href="projetos/Processamento%20de%20Linguagem%20Natural.md">Ver Projetos →</a>
 </td>
 <td width="33%" align="center">
-<img src="https://via.placeholder.com/150/E74C3C/FFFFFF?text=IoT" width="80" height="80">
+<img src="[https://via.placeholder.com/150/E74C3C/FFFFFF?text=IoT](https://vejjo.com.br/wp-content/uploads/2023/09/O-Que-e-a-Internet-das-Coisas-IoT-e-Por-Que-e-Crucial-pro-Futuro.jpg)" width="80" height="80">
 <h3>📡 Internet das Coisas</h3>
 <p>Desenvolvimento de sistemas embarcados, sensoriamento remoto e soluções conectadas.</p>
 <a href="projetos/Internet%20das%20Coisas.md">Ver Projetos →</a>
 </td>
 <td width="33%" align="center">
-<img src="https://via.placeholder.com/150/2ECC71/FFFFFF?text=CV" width="80" height="80">
+<img src="[https://via.placeholder.com/150/2ECC71/FFFFFF?text=CV](https://sigmoidal.ai/wp-content/uploads/2023/07/O-que-e-Visao-Computacional.png)" width="80" height="80">
 <h3>👁️ Visão Computacional</h3>
 <p>Reconhecimento de padrões, análise de imagens médicas e aprendizado profundo aplicado.</p>
 <a href="projetos/Visão%20Computacional.md">Ver Projetos →</a>
@@ -55,28 +55,25 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 <p><i>Coordenador</i></p>
 <p>📧 wellington@crateus.ufc.br</p>
 <p>
-<a href="http://lattes.cnpq.br/"><img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white"></a>
-<a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"></a>
+<a href="[http://lattes.cnpq.br/](http://lattes.cnpq.br/5168415467086883)"><img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white"></a>
 </p>
 </td>
 <td align="center" width="50%">
-<img src="https://via.placeholder.com/200/34495E/ECF0F1?text=Prof.+2" width="150" style="border-radius: 50%">
+<img src="[https://via.placeholder.com/200/34495E/ECF0F1?text=Prof.+2](http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4434779A1)" width="150" style="border-radius: 50%">
 <h4><b>Prof. Dr. Marciel Barros</b></h4>
 <p><i>Coordenador</i></p>
 <p>📧 marciel@crateus.ufc.br</p>
 <p>
-<a href="http://lattes.cnpq.br/"><img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white"></a>
-<a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"></a>
+<a href="[http://lattes.cnpq.br/](http://lattes.cnpq.br/0917260030364584)"><img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white"></a>
 </p>
 </td>
 <td align="center" width="50%">
-<img src="https://via.placeholder.com/200/34495E/ECF0F1?text=Prof.+1" width="150" style="border-radius: 50%">
+<img src="[https://via.placeholder.com/200/34495E/ECF0F1?text=Prof.+1](http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8120770E0)" width="150" style="border-radius: 50%">
 <h4><b>Prof. Dr. Bruno Riccelli</b></h4>
 <p><i>Coordenador</i></p>
 <p>📧 bruno.silva@crateus.ufc.br</p>
 <p>
-<a href="http://lattes.cnpq.br/"><img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white"></a>
-<a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"></a>
+<a href="[http://lattes.cnpq.br/](http://lattes.cnpq.br/9288483499965859)"><img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white"></a>
 </p>
 </td>
 </tr>
@@ -100,7 +97,7 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 
 | 📄 Artigos Publicados | 🎓 TCCs Orientados | 👥 Membros Ativos | 🏆 Prêmios |
 |:---:|:---:|:---:|:---:|
-| **25+** | **40+** | **20+** | **5** |
+| **15+** | **20+** | **40+** | **5** |
 
 </div>
 
