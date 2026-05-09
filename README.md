@@ -25,7 +25,7 @@ O **EngineLab** é um laboratório de pesquisa localizado na Universidade Federa
 <td width="33%" align="center">
 <img src="https://via.placeholder.com/150/3498DB/FFFFFF?text=NLP" width="80" height="80">
 <h3>🤖 Processamento de Linguagem Natural</h3>
-<p>Pesquisa e desenvolvimento de aplicações com Large Language Models (LLMs), incluindo geração de texto, recuperação de informação, agentes inteligentes e análise de linguagem natural.</p>
+<p>Pesquisa e desenvolvimento de aplicações com Large Language Models (LLMs).</p>
 <a href="projetos/Processamento%20de%20Linguagem%20Natural.md">Ver Projetos →</a>
 </td>
 <td width="33%" align="center">
@@ -90,7 +90,7 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 |-----|--------|---------|-------|-------|
 | 2024 | [LLM4Series: Structured Prompting for Time Series Forecasting with LLMs | Silva, Wesley Barbosa et al. | WorKshop TSALM no ICLR 2026 | [📄 PDF](https://openreview.net/forum?id=6fbcYFRoUL) |
 | 2024 | [Sex Estimation from 3D Analysis of Paranasal Sinuses: A Multicenter Study Using Deep Learning and Machine Learning] | Scarcela, Maria Fernanda AF. | ENIAC 2025 | [📄 PDF](https://sol.sbc.org.br/index.php/eniac/article/view/38877) |
-| 2023 | [Título do Artigo 3] | Autor et al. | Conferência/Journal | [📄 PDF](link) |
+| 2023 | [Prompt-Driven Time Series Forecasting with Large Language Models] | Bastos, Zairo al. | ICEIS 2025 | [📄 PDF]((https://www.scitepress.org/Papers/2025/133638/133638.pdf)) |
 
 📑 **[Ver todas as publicações →](publicacoes/artigos.md)**
 
@@ -112,9 +112,9 @@ Nossos alunos desenvolvem TCCs de alta qualidade aplicando pesquisa em problemas
 
 ### Destaques Recentes
 
-- **[2024]** *Título do TCC 1* - Aluno 1 | [📂 Repositório](link)
-- **[2024]** *Título do TCC 2* - Aluno 2 | [📂 Repositório](link)
-- **[2023]** *Título do TCC 3* - Aluno 3 | [📂 Repositório](link)
+- **[2026]** *Carcará: sistema para integração de dados meteorológicos e hidrológicos no semiárido brasileiro* - Mikael Sales | [📂 Repositório](https://repositorio.ufc.br/handle/riufc/84644)
+- **[2025]** *Previsão de séries temporais orientada por prompt com modelos de linguagem de grande escalas* - Zairo Bastos | [📂 Repositório](https://repositorio.ufc.br/handle/riufc/80020)
+- **[2025]** *Um estudo comparativo de modelos de aprendizado de máquina para classificação de flores apícolas: integrando extratores de texturas e classificadores* - Letícia Torres | [📂 Repositório](https://repositorio.ufc.br/handle/riufc/79979)
 
 ## 🤝 Parcerias
 
