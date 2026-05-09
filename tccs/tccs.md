@@ -8,18 +8,7 @@ Este diretório contém informações sobre todos os Trabalhos de Conclusão de 
 - **Em andamento:** 8
 - **Concluídos em 2024:** 12
 
-## 🏆 TCCs Premiados
-
-### 2024
-- **Melhor TCC do Departamento de Engenharia de Computação**
-  - *[Título do Trabalho]*
-  - Aluno: [Nome do Aluno]
-  - Orientador: [Nome do Professor]
-  - [📂 Repositório](link) | [📄 PDF](link)
-
----
-
-## 2024
+## 2025
 
 ### Processamento de Linguagem Natural
 
@@ -116,7 +105,7 @@ Este diretório contém informações sobre todos os Trabalhos de Conclusão de 
 
 ---
 
-## 2023
+## 2024
 
 ### Processamento de Linguagem Natural
 
@@ -157,48 +146,6 @@ Este diretório contém informações sobre todos os Trabalhos de Conclusão de 
 
 📂 [Repositório do Projeto](https://github.com/enginelabufc/tcc-nome-projeto)  
 📄 [Monografia (PDF)](link-para-pdf)
-
----
-
-## 📝 Como Adicionar seu TCC
-
-Se você desenvolveu seu TCC no EngineLab, siga estas etapas:
-
-1. **Crie um repositório** para seu projeto seguindo o padrão: `tcc-nome-do-projeto`
-2. **Adicione um README completo** no repositório com:
-   - Descrição do projeto
-   - Tecnologias utilizadas
-   - Como executar
-   - Resultados obtidos
-   - Créditos
-3. **Envie um Pull Request** adicionando seu TCC neste arquivo no ano e área correspondentes
-4. **Inclua os links** para repositório, PDF da monografia e vídeo de apresentação (se houver)
-
-### Modelo de Entrada
-
-```markdown
-#### [Título do seu TCC]
-**Aluno:** Seu Nome  
-**Orientador:** Prof. Dr. Nome do Orientador  
-**Descrição:** Breve descrição do seu trabalho...
-
-**Tecnologias:** `Tech1` `Tech2` `Tech3`
-
-📂 [Repositório do Projeto](link-do-repositorio)  
-📄 [Monografia (PDF)](link-do-pdf)  
-🎥 [Apresentação](link-do-video) *(opcional)*
-```
-
----
-
-## 📞 Contato
-
-Para mais informações sobre os TCCs ou para incluir seu trabalho nesta lista:
-- 📧 Email: contato@enginelab.ufc.br
-- 🌐 Website: [enginelab.ufc.br](https://enginelab.ufc.br)
-
----
-
 <div align="center">
 
 [← Voltar ao README Principal](../README.md)
