@@ -50,7 +50,7 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://via.placeholder.com/200/34495E/ECF0F1?text=Prof.+1" width="150" style="border-radius: 50%">
+<img src="https://lh3.googleusercontent.com/a-/ALV-UjV2dkmPUVDGc2aspCcfuZAcVpsgWWqpzr7MMXmXNS7g3CsTbgc3=s48-p" width="150" style="border-radius: 50%">
 <h4><b>Prof. Dr. Wellington Franco</b></h4>
 <p><i>Coordenador</i></p>
 <p>📧 wellington@crateus.ufc.br</p>
