@@ -119,7 +119,7 @@ Nossos alunos desenvolvem TCCs de alta qualidade aplicando pesquisa em problemas
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://sbbd.org.br/2025/wp-content/uploads/2025/09/kunumi_inst@4x-2048x616.png" height="80">
 <p><b>Kunumi Lab</b></p>
 </td>
