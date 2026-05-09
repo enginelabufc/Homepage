@@ -29,13 +29,13 @@ O **EngineLab** é um laboratório de pesquisa localizado na Universidade Federa
 <a href="projetos/Processamento%20de%20Linguagem%20Natural.md">Ver Projetos →</a>
 </td>
 <td width="33%" align="center">
-<img src="https://vejjo.com.br/wp-content/uploads/2023/09/O-Que-e-a-Internet-das-Coisas-IoT-e-Por-Que-e-Crucial-pro-Futuro.jpg" width="80" height="80">
+<img src="https://vejjo.com.br/wp-content/uploads/2023/09/O-Que-e-a-Internet-das-Coisas-IoT-e-Por-Que-e-Crucial-pro-Futuro.jpg" width="100" height="80">
 <h3>📡 Internet das Coisas</h3>
 <p>Desenvolvimento de sistemas embarcados, sensoriamento remoto e soluções conectadas.</p>
 <a href="projetos/Internet%20das%20Coisas.md">Ver Projetos →</a>
 </td>
 <td width="33%" align="center">
-<img src="https://sigmoidal.ai/wp-content/uploads/2023/07/O-que-e-Visao-Computacional.png" width="80" height="80">
+<img src="https://sigmoidal.ai/wp-content/uploads/2023/07/O-que-e-Visao-Computacional.png" width="100" height="80">
 <h3>👁️ Visão Computacional</h3>
 <p>Reconhecimento de padrões, análise de imagens médicas e aprendizado profundo aplicado.</p>
 <a href="projetos/Visão%20Computacional.md">Ver Projetos →</a>
